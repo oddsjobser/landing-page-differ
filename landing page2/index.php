@@ -11,6 +11,7 @@
 		<a href="#index">Home</a>
 		<a href="#PageA">PageA</a>
 		<a href="#PageB">PageB</a>
+		<a href="#PageB">PageC</a>
 	</div>
 
 	<div class="row" id="PageA">
@@ -42,28 +43,60 @@
 	</div>
 
 	<div class="row" id="PageB">
-		<div class="col-12 col-s12 section">
+		<div class="col-12 col-s-12 section">
 			<div class="center images">
 				<div class="box">
-					<img src="https://wallup.net/wp-content/uploads/2019/05/10/338365-mountains-landscapes-nature-lone-tree-natural-scenery-pure-blue.jpg">
-					<p>Some text here about dinosaurus concurring the world, but they couldn't you know why? because they are 
-					extint lole</p>
+					<img src="https://images.wallpaperscraft.com/image/cup_coffee_books_156306_6016x4000.jpg">
+					<p>Some text here about dinosaurus conquering the world, but they couldn't you know why? because they are 
+					extint lol.</p>
 				</div>
 				<div class="box">
-					<img src="https://wallup.net/wp-content/uploads/2019/05/10/338365-mountains-landscapes-nature-lone-tree-natural-scenery-pure-blue.jpg">
-					<p>Some text here about dinosaurus concurring the world, but they couldn't you know why? because they are 
-					extint lole</p>
+					<img src="https://images.wallpaperscraft.com/image/cup_coffee_books_156306_6016x4000.jpg">
+					<p>Some text here about dinosaurus conquering the world, but they couldn't you know why? because they are 
+					extint lol.</p>
 				</div>
 				<div class="box">
-					<img src="https://wallup.net/wp-content/uploads/2019/05/10/338365-mountains-landscapes-nature-lone-tree-natural-scenery-pure-blue.jpg">
-					<p>Some text here about dinosaurus concurring the world, but they couldn't you know why? because they are 
-					extint lole</p>
+					<img src="https://images.wallpaperscraft.com/image/cup_coffee_books_156306_6016x4000.jpg">
+					<p>Some text here about dinosaurus conquering the world, but they couldn't you know why? because they are 
+					extint lol.</p>
 				</div>
 			</div>
 		</div>
 	</div>
 
-	
+	<div class="row" id="PageC">
+		<div class="col-12 col-s-12 section">
+			<div class="col-5 col-s-5">
+				<div class="box-left">
+					<img src="https://miro.medium.com/max/10368/1*u2TpOnMoDQIAZYQe3EbWUg.jpeg">
+					<p>Some text here about dinosaurus conquering the world, but they couldn't you know why? because they are 
+					extint lol.</p>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="row" id="PageD">
+			<div class="col-5 col-s-5 aside-right">
+					<div class="box-right">
+						<img src="https://th.bing.com/th/id/OIP.8RMd_N9TmXvb5vHmT0VBnAHaE8?pid=ImgDet&rs=1">
+						<p class="col-text">Some text here about dinosaurus conquering the world, but they couldn't you know why? because they are 
+						extint lol.</p>
+					</div>
+			</div>
+	</div>
+
+	<div class="row" id="PageE">
+		<div class="col-12 col-s-12 section">
+			<div class="col-5 col-s-5">
+				<div class="box-left">
+					<img src="https://th.bing.com/th/id/OIP.Ex0Xxh-l1njDMmggK2Jv7gHaE8?pid=ImgDet&rs=1">
+					<p>Some text here about dinosaurus conquering the world, but they couldn't you know why? because they are 
+					extint lol.</p>
+				</div>
+			</div>
+		</div>
+	</div>
 
 	<div class="footer">
 		<p>Resize the browser window</p>
